@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 describe('On game start', function() {
     it('should have 00:00 timer, mode "Easy", and 45 cells filled', function() {
         cy.visit('/');

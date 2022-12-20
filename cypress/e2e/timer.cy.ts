@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 describe('Timer', function() {
     it('ticks', function() {
         cy.visit('/');
