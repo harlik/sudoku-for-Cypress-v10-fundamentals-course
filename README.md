@@ -1,4 +1,4 @@
-# sudoku
+# sudoku [![End-to-end tests](https://github.com/harlik/sudoku-for-Cypress-v10-fundamentals-course/actions/workflows/ci.yml/badge.svg)](https://github.com/harlik/sudoku-for-Cypress-v10-fundamentals-course/actions/workflows/ci.yml)
 
 A Sudoku game in React!
 
